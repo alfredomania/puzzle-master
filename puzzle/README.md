@@ -68,4 +68,6 @@ score.h created by Fuji Thaoxaochay
 
 thepuzzlemasters.cc created by Chris Mendonca
 
+thepuzzlemasters.cc edited by Alfredo Gonzalez
+
 **************************************************************************************
