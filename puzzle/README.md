@@ -1,7 +1,9 @@
 # the_puzzlemasters
 CSCI41 Group project, Spring 2018
 
-Alfredo Gonzalez:         Virtual worlds
+Alfredo Gonzalez:         Virtual world and boundaries.
+
+Glenn Quinto:             Map maker
 
 Derek Lee:                Co-project manager, puzzles/challenges (puzzle.cc, puzzle.h)
 
